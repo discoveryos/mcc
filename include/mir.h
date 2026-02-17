@@ -1,0 +1,1 @@
+#ifndef MIR_H\n#define MIR_H\n\ntypedef struct {\n    int id;\n    char name[256];\n    // Add more fields as needed\n} MIRNode;\n\n#endif // MIR_H\n
